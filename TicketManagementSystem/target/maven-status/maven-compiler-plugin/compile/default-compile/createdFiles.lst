@@ -1,0 +1,4 @@
+com\mycompany\ticketmanagementsystem\Ticket.class
+com\mycompany\ticketmanagementsystem\JakartaRestConfiguration.class
+com\mycompany\ticketmanagementsystem\resources\JakartaEE10Resource.class
+TicketServlet.class
